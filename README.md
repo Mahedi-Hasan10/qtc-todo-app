@@ -13,6 +13,7 @@ Features
   -Filter tasks by priority.
   
 
+
 Technologies Used
 
   -NextJS
@@ -22,15 +23,20 @@ Technologies Used
   -Local Storage for persisting tasks data.
   
   -SweetAlert2 for user-friendly alerts.
+
   
 
 Getting Started
 
   Follow the instructions below to get a copy of the project running on your local machine for development and testing purposes.
 
+
+
 Prerequisites
 
   Node.js installed on your machine.
+
+
 
 Installation
 
@@ -45,6 +51,7 @@ Installation
   3.Install dependencies:
   
     npm install
+
     
 Running the Application
 
