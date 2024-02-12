@@ -3,16 +3,26 @@ Todo App - Qtec Solution Limited
   It is built with React and includes features for adding, editing, deleting, and filtering tasks by priority.
 
 Features
+
   -Add new tasks with title and priority.
+  
   -Edit existing tasks.
+  
   -Delete tasks.
+  
   -Filter tasks by priority.
+  
 
 Technologies Used
+
   -NextJS
+  
   -useState and useEffect Hooks for managing state and side effects.
+  
   -Local Storage for persisting tasks data.
+  
   -SweetAlert2 for user-friendly alerts.
+  
 
 Getting Started
   Follow the instructions below to get a copy of the project running on your local machine for development and testing purposes.
