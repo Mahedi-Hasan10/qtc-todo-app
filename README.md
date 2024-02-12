@@ -5,22 +5,16 @@ Todo App - Qtec Solution Limited
 Features
 
   -Add new tasks with title and priority.
-  
   -Edit existing tasks.
-  
   -Delete tasks.
-  
   -Filter tasks by priority.
   
 
 Technologies Used
 
   -NextJS
-  
   -useState and useEffect Hooks for managing state and side effects.
-  
   -Local Storage for persisting tasks data.
-  
   -SweetAlert2 for user-friendly alerts.
   
 
