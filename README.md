@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Todo App - Qtec Solution Limited
+  This Todo application is a project developed for Qtec Solution Limited.
+  It is built with React and includes features for adding, editing, deleting, and filtering tasks by priority.
 
-## Getting Started
+Features
+  -Add new tasks with title and priority.
+  -Edit existing tasks.
+  -Delete tasks.
+  -Filter tasks by priority.
 
-First, run the development server:
+Technologies Used
+  -NextJS
+  -useState and useEffect Hooks for managing state and side effects.
+  -Local Storage for persisting tasks data.
+  -SweetAlert2 for user-friendly alerts.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Getting Started
+  Follow the instructions below to get a copy of the project running on your local machine for development and testing purposes.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Prerequisites
+  Node.js installed on your machine.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Installation
+  1.Clone the repository:
+    git clone https://github.com/your-username/todo-qtec-solution.git
+  2.Navigate to the project directory:
+    cd todo-qtec-solution
+  3.Install dependencies:
+    npm install
+Running the Application
+  4.Start the development server:
+    npm start
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Open your web browser and visit http://localhost:3000 to view the application.
 
-## Learn More
+  Usage
+    -Enter a task title and select its priority from the dropdown.
+    -Click on the "Add Task" button to add the task to the list.
+    -Toggle task status by clicking on the checkbox.
+    -Edit a task by clicking on the "Edit" button, make changes, and then click "Save".
+    -Delete a task by clicking on the "Delete" button.
+    -Use the priority filter dropdown to filter tasks by priority.
 
-To learn more about Next.js, take a look at the following resources:
+Acknowledgments
+  -This project was developed for Qtec Solution Limited.
+  -Special thanks to the developers of React, SweetAlert2, and other dependencies used in this project.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
