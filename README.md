@@ -24,7 +24,10 @@ Technologies Used
   
   -SweetAlert2 for user-friendly alerts.
 
-  
+
+Live Demo - https://qtc-todo-app.vercel.app/
+
+Or
 
 Getting Started
 
